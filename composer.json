@@ -1,20 +1,20 @@
 {
-    "name": "khaled-rayan/phpconsole",
-    "description": "A simple PHP library to send console messages to browser's JavaScript console",
-    "type": "library",
-    "license": "BSD-3-Clause",
-    "authors": [
-        {
-            "name": "Khaled M. Ryan",
-            "email": "khaled@krayan.net"
-        }
-    ],
-    "require": {
-        "php": ">=7.4"
-    },
-    "autoload": {
-        "psr-4": {
-            "PHPConsole\\": "src/"
-        }
+  "name": "khaled-rayan/phpconsole",
+  "description": "A simple PHP library to send console messages to browser's JavaScript console",
+  "type": "library",
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Khaled M. Ryan",
+      "email": "khaled@krayan.net"
     }
+  ],
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "PHPConsole\\": "src/"
+    }
+  }
 }
