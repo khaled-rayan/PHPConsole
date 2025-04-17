@@ -1,5 +1,6 @@
 {
     "name": "khaled-rayan/phpconsole",
+    "version": "1.0.0",
     "description": "A simple PHP library to send console messages to browser's JavaScript console",
     "type": "library",
     "license": "LGPL-2.1-or-later",
